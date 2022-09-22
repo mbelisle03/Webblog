@@ -24,9 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Belize is a beautiful country nestled in Central America while sitting on the shores of the Caribbean Sea. Belize is uniquely different as it is considered to be the only english speaking 
   nation in Central America. 
 baseurl: "/Webblog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mbelisle03.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  mbelisle03
 
 # Build settings
 theme: jekyll-theme-clean-blog
