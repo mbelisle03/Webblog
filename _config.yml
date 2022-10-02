@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MIU Web Dev Blog
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Belize is a beautiful country nestled in Central America while sitting on the shores of the Caribbean Sea. Belize is uniquely different as it is considered to be the only english speaking 
-  nation in Central America. 
+title: Belize Blog
+email: marcel.belisle1@gmail.com
+description: >- # this means to ignore newlines until "baseurl:" 
+
+
 baseurl: "/Webblog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -32,6 +32,7 @@ github_username:  jekyllrb
 theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
+
 
 show_excerpts: true
 permalink: /:collection/:year-:month-:day-:title:output_ext
